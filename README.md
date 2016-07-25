@@ -34,6 +34,13 @@ This data was obtained by scanning the second and third volumes of _Art Sales_ i
 `"shillings"`: 10,  (price paid, shillings)  
 `"pence"`: 0 (price paid, pence)  
 
+###Unresolved Problems
+Check out the issues tickets for known issues with this data. 
+
+As of July 25, 2016, the biggest known issues are:  
+1) The need to write scripts to extract ``"owner"`` names from the front of artwork titles.   
+2) Troubles in modeling data where items were sold "en bloc". (i.e. a purchases bought paintings x, y, and z at the same auction on the same day for one price, rather than buying x, y, and z as separate units, with their own purchase prices. 
+
 
 ###Can I contribute? 
 Sure!
