@@ -18,7 +18,10 @@ The included data was initiated to track the purchasing activity of the Baring f
 
 ~~What would be really useful is if this data could grow to include the entirity of the Art Sales book. You can find the first volume of the book online [here](https://babel.hathitrust.org/cgi/pt?id=njp.32101067589935). Vols. 2 & 3 are not currently online, but may be requested through a local library, likely through interlibrary loan- but check [WorldCat](http://www.worldcat.org/title/art-sales-from-early-in-the-eighteenth-century-to-early-in-the-twentieth-century-mostly-old-master-and-early-english-pictures/oclc/17488229&referer=brief_results) first.~~
 
+The first volume of _Art Sales_ is available through the [InternetArchive](https://archive.org/details/GravesArtSalesVolumeOne). 
+
 This data was obtained by scanning the second and third volumes of _Art Sales_ in a book scanner with Optical Character Recognition (OCR) software. The first volume was already available in PDF format. The data was then extracted to `xls` format using ABBYY FineReader Pro, and then cleaned and  exported to `.csv` and `.json` formats. 
+
 
 ###Data Structure
 
