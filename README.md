@@ -48,7 +48,7 @@ As of July 25, 2016, the biggest known issues are:
 ###Can I contribute? 
 Sure!
 
-Found an error? Send me a pull request. Cheers. 
+Found an error? Send a pull request. Cheers. 
 
 Want to transcribe the rest of the data--not limited to the Barings? You. are. **awesome**. Clone this repo, add the stuff, and send me a pull request. Enjoy endless good art history karma. 
 
@@ -65,6 +65,8 @@ The data contained in this file is related to the purchases of the Baring family
 ###Disclosures, etc.
 Use this data at your own risk. I've done by best to make it acurate, but I cannot swear or guarentee its acuracy. Please use your best judgement before basing a thesis on it. 
 
+###Who created this? Who contributed? 
+This data set was scanned, cleaned, and harvested by [Tracey Berg-Fulton](https://github.com/bergfulton). As Tracey is a human and had to do a lot of the data cleaning by hand w/software assistance, the data is likely not perfect. 
 
 
 
