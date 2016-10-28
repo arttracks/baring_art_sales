@@ -22,6 +22,10 @@ The first volume of _Art Sales_ is available through the [InternetArchive](https
 
 This data was obtained by scanning the second and third volumes of _Art Sales_ in a book scanner with Optical Character Recognition (OCR) software. The first volume was already available in PDF format. The data was then extracted to `xls` format using ABBYY FineReader Pro, and then cleaned and  exported to `.csv` and `.json` formats. 
 
+###Raw Data _Update 10/28/2016_
+As of 10/28/2016, a great deal of data had been cleaned, but not all of it. If you are interested in seeing the complete data set, with some un-cleaned/unordered data, please see this [Google Doc](https://docs.google.com/spreadsheets/d/1CaQmD0Xo5RL35R-TLTq-EjToZjS6ynoVgsgNOTX5ZBY/edit?usp=sharing). The data on the first tab is a compilation of ALL of the tabs. It may be removed. 
+
+Because of Google's 2M cell limit on workbooks, a separate workbook has been started to contain the cleaned data. It is found [here](https://docs.google.com/spreadsheets/d/1NYbEqvcuj30qtWe90IWGrx_MuYsfEQcViQslWeY0Dis/edit?usp=sharing). 
 
 ###Data Structure
 
